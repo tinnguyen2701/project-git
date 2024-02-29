@@ -1,1 +1,1 @@
-add dong dau tien cua file C
+edit file C
