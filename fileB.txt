@@ -1,11 +1,11 @@
 a
 b
 c
-d edit from Left
+d edit from left
 e
 f
 g
-h edit from Left
+h edit from left
 i
 j
 k
